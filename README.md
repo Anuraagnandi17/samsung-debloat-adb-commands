@@ -6,10 +6,8 @@ pm uninstall -k --user 0 com.amazon.kindle
 pm uninstall -k --user 0 com.amazon.mp3
 pm uninstall -k --user 0 com.amazon.mShop.android
 pm uninstall -k --user 0 com.amazon.venezia
-
 pm uninstall -k --user 0 com.android.backupconfirm
 pm uninstall -k --user 0 com.android.bips
-
 pm uninstall -k --user 0 com.android.dreams.basic
 pm uninstall -k --user 0 com.android.dreams.phototable
 pm uninstall -k --user 0 com.android.dreams.phototable
@@ -23,28 +21,19 @@ pm uninstall -k --user 0 com.android.sharedstoragebackup
 pm uninstall -k --user 0 com.android.stk
 pm uninstall -k --user 0 com.android.wallpaper.livepicker
 pm uninstall -k --user 0 com.android.wallpapercropper
-
 pm uninstall -k --user 0 com.audible.application
-
 pm uninstall -k --user 0 com.blurb.checkout
-
 pm uninstall -k --user 0 com.cequint.ecid
-
 pm uninstall -k --user 0 com.cnn.mobile.android.phone.edgepanel
-
 pm uninstall -k --user 0 com.diotek.sec.lookup.dictionary
-
 pm uninstall -k --user 0 com.dsi.ant.plugins.antplus
 pm uninstall -k --user 0 com.dsi.ant.sample.acquirechannels
 pm uninstall -k --user 0 com.dsi.ant.server
 pm uninstall -k --user 0 com.dsi.ant.service.socket
-
-
 pm uninstall -k --user 0 com.facebook.appmanager
 pm uninstall -k --user 0 com.facebook.katana
 pm uninstall -k --user 0 com.facebook.services
 pm uninstall -k --user 0 com.facebook.system
-
 pm uninstall -k --user 0 com.google.android.apps.books
 pm uninstall -k --user 0 com.google.android.apps.docs
 pm uninstall -k --user 0 com.google.android.apps.magazines
@@ -58,31 +47,20 @@ pm uninstall -k --user 0 com.google.android.tts
 pm uninstall -k --user 0 com.google.android.videos
 pm uninstall -k --user 0 com.google.ar.core
 pm uninstall -k --user 0 com.google.vr.vrcore
-
 pm uninstall -k --user 0 com.gotv.nflgamecenter.us.lite
-
 pm uninstall -k --user 0 com.hancom.office.editor.hidden
 pm uninstall -k --user 0 com.hancom.office.editor.hidden
-
 pm uninstall -k --user 0 com.imdb.mobile
-
 pm uninstall -k --user 0 com.infraware.polarisoffice5
-
 pm uninstall -k --user 0 com.microsoft.appmanager
 pm uninstall -k --user 0 com.microsoft.office.excel
 pm uninstall -k --user 0 com.microsoft.office.powerpoint
 pm uninstall -k --user 0 com.microsoft.office.word
 pm uninstall -k --user 0 com.microsoft.skydrive
-
 pm uninstall -k --user 0 com.mobeam.barcodeService
-
-
 pm uninstall -k --user 0 com.nuance.swype.input
-
 pm uninstall -k --user 0 com.osp.app.signin
-
 pm uninstall -k --user 0 com.policydm
-
 pm uninstall -k --user 0 com.samsung.android.aircommandmanager
 pm uninstall -k --user 0 com.samsung.android.allshare.service.fileshare
 pm uninstall -k --user 0 com.samsung.android.allshare.service.mediashare
@@ -189,7 +167,6 @@ pm uninstall -k --user 0 com.samsung.systemui.bixby
 pm uninstall -k --user 0 com.samsung.systemui.bixby2
 pm uninstall -k --user 0 com.samsung.ucs.agent.ese
 pm uninstall -k --user 0 com.samsung.voiceserviceplatform
-
 pm uninstall -k --user 0 com.sec.android.app.apex
 pm uninstall -k --user 0 com.sec.android.app.applinker
 pm uninstall -k --user 0 com.sec.android.app.billing
@@ -285,24 +262,14 @@ pm uninstall -k --user 0 com.sec.usbsettings
 pm uninstall -k --user 0 com.sec.vowifispg
 pm uninstall -k --user 0 com.sec.yosemite.phone
 pm uninstall -k --user 0 com.sem.factoryapp
-
 pm uninstall -k --user 0 com.singtel.mysingtel
-
 pm uninstall -k --user 0 com.skms.android.agent
-
 pm uninstall -k --user 0 com.skype.raider
-
-
 pm uninstall -k --user 0 com.tripadvisor.tripadvisor
-
 pm uninstall -k --user 0 com.trustonic.tuiservice
-
 pm uninstall -k --user 0 com.vlingo.midas
-
-# pm uninstall -k --user 0 com.wsomacp
-
+pm uninstall -k --user 0 com.wsomacp
 pm uninstall -k --user 0 com.wssnps
-
 pm uninstall -k --user 0 com.yelp.android.samsungedge
 pm uninstall -k --user 0 comflipboard.app
 pm uninstall -k --user 0 comflipboard.boxer.app
